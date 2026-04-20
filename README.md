@@ -114,7 +114,7 @@ El flujo desarrollado incluye:
 ---
 
 ## 📎 Repositorio
-👉 (Agregar link aquí cuando subas el repo)
+👉 [https://github.com/demiranda95/MachineLearning-TS2](https://github.com/demiranda95/MachineLearning-TS2)
 
 ---
 
@@ -128,8 +128,3 @@ Este trabajo corresponde a la continuación del pipeline desarrollado en la **Un
 
 ---
 
-## 🚀 Posibles mejoras
-- Ajuste fino de hiperparámetros (GridSearch)
-- Feature engineering adicional
-- Balanceo de clases (si cambia el umbral)
-- Prueba con modelos más complejos (LightGBM, CatBoost)
